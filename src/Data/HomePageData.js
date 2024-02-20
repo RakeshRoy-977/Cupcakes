@@ -116,4 +116,109 @@ export const topProduct = [
       "Step 6": "Spread or pipe frosting onto cooled cupcakes.",
     },
   },
+  {
+    id: 4,
+    name: "Creepy Halloween Skull Cupcakes",
+    description:
+      "For this Halloween-themed dessert, you can use any chocolate cupcake or muffin recipe. These scary skull cupcakes are always a hit at any party I bring them to. I was inspired by the movie Night of the Living Dead when I created them.",
+    img: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4557475.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    ingredients: [
+      "1 (15.25 ounce) package devil's food cake mix (such as Duncan Hines)",
+      "1 cup water",
+      "3 eggs",
+      "⅓ cup vegetable oil",
+      "1 ½ (16 ounce) packages prepared vanilla frosting",
+      "1 (7 ounce) pouch prepared chocolate frosting",
+    ],
+    Directions: {
+      "Step 1":
+        "Preheat the oven to 350 degrees F (175 degrees C). Line two 12-cup muffin tins with paper liners, preferably dark-colored or Halloween-themed ones.",
+      "Step 2":
+        "Combine cake mix, water, eggs, and oil in a large bowl; beat with an electric mixer on low speed until moistened, about 30 seconds. Beat at medium speed until batter is smooth and creamy, about 2 minutes. Spoon batter into the prepared muffin cups, filling each 3/4 full.",
+      "Step 3":
+        "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 18 to 20 minutes. Remove from oven and cool tins on a wire rack for 15 minutes. Remove cupcakes from the tins and cool them completely on a wire rack before decorating, about 1 hour.",
+      "Step 4":
+        "Frost each cupcake with a thin layer of white vanilla frosting and refrigerate for 30 minutes to make decorating easier.",
+      "Step 5":
+        "Remove cupcakes from the fridge and apply a second layer of white frosting. Fill a piping bag outfitted with a small round tip with chocolate frosting and draw a skull face on the cupcakes: pipe large ovals for the eyes, two dots for the nostrils, and a large 'stitched' smile for the mouth.",
+    },
+  },
+  {
+    id: 5,
+    name: "Easy Halloween Mummy Cupcakes",
+    description:
+      "Even if you're not an experienced cupcake decorator, these little mummies are super easy to make and my kids loved them at their Halloween party. You can use any dark-colored cupcake or muffin and turn them into a creepy mummy in a heartbeat.",
+    img: "https://www.allrecipes.com/thmb/vqyTlExjggfAnjRjY8JphGDhxfw=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4466_CarrotCupcakeswithWhiteChocolateCreamCheeseIcing4x3photobychefX39-e7bb3e7fcb464975aa9e505406c7ecf0.jpg",
+    ingredients: [
+      "1 (18.25 ounce) package devil's food cake mix (such as Duncan Hines®)",
+      "1 cup water",
+      "3 eggs",
+      "⅓ cup vegetable oil",
+      "1 (16 ounce) can vanilla frosting",
+      "48 chocolate chips",
+    ],
+    Directions: {
+      "Step 1":
+        "Preheat oven to 350 degrees F (175 degrees C). Line two 12-cup muffin tins with paper liners, preferable dark-colored or Halloween-themed ones.",
+      "Step 2":
+        "Combine cake mix, water, eggs, and oil in a large bowl; beat with an electric mixer on low speed until moistened, about 30 seconds. Beat at medium speed until batter is smooth and creamy, about 2 minutes. Spoon batter into the prepared muffin cups, filling each 3/4 full.",
+      "Step 3":
+        "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 18 to 21 minutes. Remove from oven and cool tins on a wire rack for 15 minutes. Remove cupcakes from the tins and cool completely on a wire rack before decorating, about 1 hour.",
+      "Step 4":
+        "Spoon frosting in a pastry bag or a plastic bag with the corner cut off. Pipe strands of frosting onto the top and bottom of the cupcakes, leaving an oval eye shape exposed in the middle. Pipe 2 dots in the exposed middle for the mummy's eyes. Place 2 chocolate chips flat-side up in the middle of each dot for the pupils.",
+    },
+  },
+  {
+    id: 6,
+    name: "Pound Cake Cupcakes",
+    description:
+      "An easy, yummy pound cake in cupcake form. I got this recipe out of a Southern Living magazine and modified it a little. Enjoy!",
+    img: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F07%2F11%2F6427346-brownie-cupcakes-Sam-White-4x3-1.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    ingredients: [
+      "½ cup unsalted butter, softened",
+      "½ (8 ounce) package cream cheese, softened",
+      "2 cups white sugar",
+      "4 large eggs",
+      "1 teaspoon vanilla extract",
+      "3 cups all-purpose flour",
+      "1 teaspoon baking powder",
+      "½ teaspoon baking soda",
+      "1 (8 ounce) carton sour cream",
+    ],
+    Directions: {
+      "Step 1": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Step 2":
+        "Beat butter and cream cheese together until creamy; add sugar and beat until fluffy. Add eggs one at a time, beating until each one is blended. Stir in vanilla extract.",
+      "Step 3":
+        "Combine flour, baking powder, and baking soda in a separate bowl. Gradually add to the butter mixture, alternating with sour cream, beating until blended.",
+      "Step 4":
+        "Spoon batter into the prepared muffin cups, filling each 2/3 full.",
+      "Step 5":
+        "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 24 minutes.",
+    },
+  },
+  {
+    id: 7,
+    name: "Vanilla Cupcake",
+    description:
+      "This easy vanilla cupcake recipe is made with simple ingredients. They are very tasty!",
+    img: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2023%2F01%2F31%2F157877-vanilla-cupcakes-ddmfs-4X3-0397.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    ingredients: [
+      "¾ cup superfine sugar",
+      "⅔ cup butter, softened",
+      "3 large eggs",
+      "1 ½ cups self-rising flour",
+      "1 teaspoon vanilla extract",
+    ],
+    Directions: {
+      "Step 1":
+        "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 12-cup muffin tin or line cups with paper liners.",
+      "Step 2":
+        "Beat sugar and butter together in a large bowl with an electric mixer until light and fluffy. Add eggs one at a time, beating well after each addition.",
+      "Step 3":
+        "Beat in vanilla extract. Stir in flour just until mixed; spoon batter into the prepared muffin cups, filling each 3/4 full.",
+      "Step 4":
+        "Bake in the preheated oven until the tops spring back when lightly pressed, 18 to 20 minutes. Cool in the tin briefly before transferring to a wire rack to cool completely.",
+    },
+  },
 ];

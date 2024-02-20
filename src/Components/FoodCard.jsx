@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
-const TopFood = ({ food }) => {
+const FoodCard = ({ food }) => {
   const nav = useNavigate();
   const handelClick = () => {
     nav(`/Recipes/${food.id}`, { state: { food } });
@@ -23,4 +23,4 @@ const TopFood = ({ food }) => {
   );
 };
 
-export default TopFood;
+export default FoodCard;

@@ -9,6 +9,7 @@ const RecipeDetails = () => {
 
   return (
     <>
+      {/* back button */}
       <div className="flex justify-end mr-[250px] mt-2 ">
         <button onClick={() => nav(-1)} className="btn btn-circle">
           <svg
@@ -27,8 +28,9 @@ const RecipeDetails = () => {
           </svg>
         </button>
       </div>
-      <div className="max-w-3xl mx-auto mt-8">
-        <div className="bg-white rounded-lg shadow-md overflow-hidden">
+
+      <div className="max-w-3xl mx-auto mt-8 ">
+        <div className="bg-white rounded-lg shadow-md overflow-hidden ">
           <img
             className="w-full h-64 object-cover object-center"
             src={foodDetails.img}

@@ -1,13 +1,13 @@
 import React from "react";
 import { topProduct } from "../Data/HomePageData";
-import TopFood from "../Components/TopFood";
+import FoodCard from "../Components/FoodCard";
 
 const Recipes = () => {
   return (
-    <div className="h-[100vh]">
-      <div className="flex gap-8 justify-center">
+    <div className="">
+      <div className="flex gap-8 justify-center flex-wrap mb-20 mt-20 m-auto w-[80vw]">
         {topProduct.map((food) => (
-          <TopFood key={food.id} food={food} />
+          <FoodCard key={food.id} food={food} />
         ))}
       </div>
     </div>
