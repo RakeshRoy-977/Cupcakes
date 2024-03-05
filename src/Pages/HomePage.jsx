@@ -2,7 +2,7 @@ import React from "react";
 import TopFood from "../Components/FoodCard";
 import { topProduct } from "../Data/HomePageData";
 import { Link, useNavigate } from "react-router-dom";
-import OurTeam from "../Components/OurTeam";
+import Reviews from "../Components/Reviews";
 
 const HomePage = () => {
   const nav = useNavigate();
@@ -57,7 +57,7 @@ const HomePage = () => {
             View All
           </button>
         </div>
-        <OurTeam />
+        <Reviews />
       </div>
     </>
   );
